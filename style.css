@@ -10,9 +10,11 @@ body{
 
 footer{
     font-family: 'Fira Sans', sans-serif;
-    position: relative !important;
-    margin-top: 50px;
     width: 100%;
+    margin-top: 115px;
+    background: #333;
+    color: #fff;
+    position: relative;
     bottom: 0px;
 }
 
